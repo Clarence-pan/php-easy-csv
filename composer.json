@@ -1,0 +1,18 @@
+{
+    "name": "clarence/easy-csv",
+    "description": "A libaray for exporting csv file easily",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clarence",
+            "email": "clarence-pan@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Clarence\\": "src"
+        }
+    }
+}
